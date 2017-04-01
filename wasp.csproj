@@ -98,8 +98,10 @@
     <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
     <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
     <Compile Include="Assets\MatchManager.cs" />
+    <Compile Include="Assets\NetworkGUIManager.cs" />
     <Compile Include="Assets\Objects.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\TitleManager.cs" />
     <Compile Include="Assets\onHexagon.cs" />
   </ItemGroup>
   <ItemGroup>

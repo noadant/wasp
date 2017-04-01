@@ -37,6 +37,7 @@ GameObject:
   - component: {fileID: 4000013569896196}
   - component: {fileID: 114000013061132482}
   - component: {fileID: 114000010381212318}
+  - component: {fileID: 114992377606996348}
   m_Layer: 0
   m_Name: Player1
   m_TagString: Player
@@ -148,6 +149,18 @@ MonoBehaviour:
   currentHexagon: {fileID: 1000012441567422, guid: c4bbbe4012ad5a14ebf27b46cb053163,
     type: 2}
   color: {r: 0, g: 0, b: 0, a: 0}
+--- !u!114 &114992377606996348
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012812046518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 246975512, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowLobbyGUI: 1
 --- !u!212 &212000012909401434
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -6,4 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/buttle.unity
+    path: Assets/scenes/title.unity
+  - enabled: 1
+    path: Assets/scenes/buttle.unity
+  - enabled: 1
+    path: Assets/scenes/buttle_lobby.unity
