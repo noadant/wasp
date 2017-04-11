@@ -1,0 +1,1302 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 59Hz; virtual: 3200x2160 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.425124 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.366114 ms
+NetworkManager created singleton (DontDestroyOnLoad)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.276431 ms (FindLiveObjects: 0.054685 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.189295 ms  DeleteObjects: 0.020131 ms)
+
+NetworkManager StartMatchMaker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetMatchHost:https://mm.unet.unity3d.com:443
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerChangeScene buttle_lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer Created version Current
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToAll msgType:39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.650737 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.234666 ms (FindLiveObjects: 0.011417 ms CreateObjectMapping: 0.010516 ms MarkObjects: 0.184487 ms  DeleteObjects: 0.027643 ms)
+
+ClientChangeScene done readyCon:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FinishLoadScene client is null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager OnMatchCreate Success:True, ExtendedInfo:, matchInfo:900719925478650294 @ 52.76.153.37:9999 [3240,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:43 handler:OnServerReadyToBeginMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:44 handler:OnServerSceneLoadedMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:46 handler:OnServerReturnToLobbyMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple initialize.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server Host Slot Id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Relay Slot Id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:35 handler:OnClientReadyMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:5 handler:OnCommandMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:6 handler:HandleTransform
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:16 handler:HandleChildTransform
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:38 handler:OnRemovePlayerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:40 handler:OnAnimationServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:41 handler:OnAnimationParametersServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:42 handler:OnAnimationTriggerServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:17 handler:OnFragment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:32 handler:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:33 handler:OnServerDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler replacing 35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:35 handler:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:37 handler:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler replacing 38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:38 handler:OnServerRemovePlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:34 handler:OnServerErrorInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager StartServer port:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager StartHost port:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client created version Current
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:1 handler:OnLocalClientObjectDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:13 handler:OnLocalClientObjectHide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:3 handler:OnLocalClientObjectSpawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:10 handler:OnLocalClientObjectSpawnScene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:15 handler:OnClientAuthority
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:2 handler:OnRPCMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:7 handler:OnSyncEventMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:42 handler:OnAnimationTriggerClientMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:14 handler:OnCRC
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:17 handler:OnFragment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:32 handler:OnClientConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:33 handler:OnClientDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:36 handler:OnClientNotReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:34 handler:OnClientErrorInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:39 handler:OnClientSceneInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering prefab 'Player1' as asset:0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering prefab 'Player1' as asset:0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:43 handler:OnClientReadyToBegin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:45 handler:OnClientAddPlayerFailedMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnClientConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::Ready() called with connection [hostId: -1 connectionId: 0 isReady: False channel count: 0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer Ready handling ULocalConnectionToClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::AddPlayer() for ID 0 called with connection [hostId: -1 connectionId: 0 isReady: True channel count: 0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReady conn 0 already ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer SetupLocalPlayerForConnection netID:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer AddPlayer handling ULocalConnectionToClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartServer Player1(Clone) (UnityEngine.GameObject) GUID:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObjectOnServer 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartClient Player1(Clone) (UnityEngine.GameObject) GUID:1 localPlayerAuthority:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToReady id:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Local client AddLocalPlayer Player1(Clone) conn=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::InternalAddPlayer: playerControllerId : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetSyncVar Player bit [1] RGBA(0.000, 0.000, 0.000, 0.000)->RGBA(0.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetGroup event:ConnectEvent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetGroup server connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=ConnectEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=DataEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawning 1 objects for conn 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending spawn message for current server objects name='Player1(Clone)' netId=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReady conn 1 already ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer SetupLocalPlayerForConnection netID:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding new playerGameObject object netId: 0 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartServer Player1(Clone) (UnityEngine.GameObject) GUID:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObjectOnServer 2 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 2 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 2 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartClient Player1(Clone) (UnityEngine.GameObject) GUID:2 localPlayerAuthority:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SpawnObject instance ID 2 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetSyncVar Player bit [1] RGBA(0.000, 0.000, 0.000, 0.000)->RGBA(1.000, 0.000, 0.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server event: host=0 event=DisconnectEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple disconnect client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 2 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 2 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 2 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::OnLocalObjectObjDestroy netId:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=ConnectEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=DataEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawning 1 objects for conn 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending spawn message for current server objects name='Player1(Clone)' netId=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReady conn 1 already ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer SetupLocalPlayerForConnection netID:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding new playerGameObject object netId: 0 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartServer Player1(Clone) (UnityEngine.GameObject) GUID:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObjectOnServer 3 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 3 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 3 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartClient Player1(Clone) (UnityEngine.GameObject) GUID:3 localPlayerAuthority:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SpawnObject instance ID 3 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetSyncVar Player bit [1] RGBA(0.000, 0.000, 0.000, 0.000)->RGBA(1.000, 0.000, 0.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Server event: host=0 event=DisconnectEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple disconnect client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::OnLocalObjectObjDestroy netId:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=ConnectEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server accepted client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server event: host=0 event=DataEvent error=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawning 1 objects for conn 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending spawn message for current server objects name='Player1(Clone)' netId=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReady conn 1 already ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer SetupLocalPlayerForConnection netID:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding new playerGameObject object netId: 0 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartServer Player1(Clone) (UnityEngine.GameObject) GUID:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObjectOnServer 4 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 4 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 4 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartClient Player1(Clone) (UnityEngine.GameObject) GUID:4 localPlayerAuthority:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SpawnObject instance ID 4 asset ID 0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer ::ffff:52.76.153.37 added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetSyncVar Player bit [1] RGBA(0.000, 0.000, 0.000, 0.000)->RGBA(1.000, 0.000, 0.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.76.153.37:9999}
+Server event: host=0 event=DisconnectEvent error=6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple disconnect client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 4 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 4 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 4 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server lost client:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::OnLocalObjectObjDestroy netId:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\asahi\Documents\GitHub\wasp\title_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 59Hz; virtual: 3200x2160 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.033573 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.830259 ms
+NetworkManager created singleton (DontDestroyOnLoad)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.357858 ms (FindLiveObjects: 0.030347 ms CreateObjectMapping: 0.014122 ms MarkObjects: 0.293257 ms  DeleteObjects: 0.019530 ms)
+
+NetworkManager StartMatchMaker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetMatchHost:https://mm.unet.unity3d.com:443
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerChangeScene buttle_lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer Created version Current
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToAll msgType:39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.438748 ms
+ClientChangeScene done readyCon:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FinishLoadScene client is null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.847923 ms (FindLiveObjects: 0.030046 ms CreateObjectMapping: 0.015323 ms MarkObjects: 0.707604 ms  DeleteObjects: 0.094647 ms)
+
+NetworkManager OnMatchCreate Success:True, ExtendedInfo:, matchInfo:900719925478650968 @ 52.77.65.224:9999 [37390,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:43 handler:OnServerReadyToBeginMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:44 handler:OnServerSceneLoadedMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:46 handler:OnServerReturnToLobbyMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServerSimple initialize.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server Host Slot Id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Relay Slot Id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:35 handler:OnClientReadyMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:5 handler:OnCommandMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:6 handler:HandleTransform
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:16 handler:HandleChildTransform
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:38 handler:OnRemovePlayerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:40 handler:OnAnimationServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:41 handler:OnAnimationParametersServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:42 handler:OnAnimationTriggerServerMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:17 handler:OnFragment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:32 handler:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:33 handler:OnServerDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler replacing 35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:35 handler:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:37 handler:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler replacing 38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:38 handler:OnServerRemovePlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:34 handler:OnServerErrorInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager StartServer port:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager StartHost port:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client created version Current
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:1 handler:OnLocalClientObjectDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:13 handler:OnLocalClientObjectHide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:3 handler:OnLocalClientObjectSpawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:10 handler:OnLocalClientObjectSpawnScene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:15 handler:OnClientAuthority
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:2 handler:OnRPCMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:7 handler:OnSyncEventMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:42 handler:OnAnimationTriggerClientMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:14 handler:OnCRC
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandlerSafe id:17 handler:OnFragment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:32 handler:OnClientConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:33 handler:OnClientDisconnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:36 handler:OnClientNotReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:34 handler:OnClientErrorInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:39 handler:OnClientSceneInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering prefab 'Player1' as asset:0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering prefab 'Player1' as asset:0f1169bad237232479935fb760e5b57a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:43 handler:OnClientReadyToBegin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RegisterHandler id:45 handler:OnClientAddPlayerFailedMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnClientConnectInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::Ready() called with connection [hostId: -1 connectionId: 0 isReady: False channel count: 0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerReadyMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ready with no player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer Ready handling ULocalConnectionToClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::AddPlayer() for ID 0 called with connection [hostId: -1 connectionId: 0 isReady: True channel count: 0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager:OnServerAddPlayerMessageInternal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReadyInternal for conn:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetClientReady conn 0 already ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer SetupLocalPlayerForConnection netID:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkServer AddPlayer handling ULocalConnectionToClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartServer Player1(Clone) (UnityEngine.GameObject) GUID:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObjectOnServer 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnStartClient Player1(Clone) (UnityEngine.GameObject) GUID:1 localPlayerAuthority:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate observer localClient added for Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToReady id:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Local client AddLocalPlayer Player1(Clone) conn=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 Player1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientScene::InternalAddPlayer: playerControllerId : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetSyncVar Player bit [1] RGBA(0.000, 0.000, 0.000, 0.000)->RGBA(0.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetGroup event:ConnectEvent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetGroup server connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 39c4 -> priority: 1 
+NetworkManager destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17c -> priority: 1 
+NetworkManager destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DestroyObject instance:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server.SendToObservers id:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetLocalObject 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
