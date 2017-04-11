@@ -12,10 +12,6 @@ public class TitleManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
-
-    public void ChangeToButtleLobbyScene() {
-        SceneManager.LoadScene("buttle_lobby");
+		if(Input.anyKey) SceneManager.LoadScene("buttle_mode");
     }
 }
