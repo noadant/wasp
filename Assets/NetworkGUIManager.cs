@@ -66,5 +66,6 @@ public class NetworkGUIManager : NetworkLobbyManager
     public void joinServer(NetworkID networkId)
     {
         matchMaker.JoinMatch(networkId, "", "","", 0,0,OnMatchJoined);
+        ServerChangeScene(lobbyScene);
     }
 }

@@ -27,8 +27,9 @@ public class Objects : NetworkBehaviour {
         }
     }
 
-    public override void OnStartServer()
+    void Start()
     {
+        if (this.isClient) return; 
         gameManagerPrehab = Instantiate(gameManager);
         NetworkServer.Spawn(gameManagerPrehab);
         for (int i = 0; i < centerRawCount; i++)

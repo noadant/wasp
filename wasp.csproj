@@ -101,6 +101,7 @@
     <Compile Include="Assets\NetworkGUIManager.cs" />
     <Compile Include="Assets\Objects.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\ReadyButton.cs" />
     <Compile Include="Assets\ServerListManager.cs" />
     <Compile Include="Assets\TitleManager.cs" />
     <Compile Include="Assets\onHexagon.cs" />
